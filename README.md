@@ -2,7 +2,8 @@ Emre Hakan Erdemir
 150210323
 Username: erdemire21
 Note: My username was herdemir but to make it more clear I changed it to erdemire21
-# :wave: The Basics of GitHub 
+
+# :wave: The Basics of GitHub (Modified By Emre Hakan Erdemir at 11.23, 25.10.2021)
 
 ## 🤓 Course overview and learning outcomes 
 
